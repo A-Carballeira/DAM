@@ -10,5 +10,5 @@ package Dam;
  */
 public class Proyecto {
     
-    //comentario de :AdrianDiaz
+    //comentario de AdrianDiaz
 }
