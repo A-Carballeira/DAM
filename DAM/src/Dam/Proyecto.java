@@ -8,8 +8,19 @@ package Dam;
  *
  * @author pcarid
  */
+
+/**
+ * 
+ * comentario manuel
+ */
 public class Proyecto {
+    //Comment leon
     
+    /*Comentario de práctica*/
+    /*Muerte a NetBeans*/
+    //Comentario de Pablo
+    
+    /*Comentario de Víctor*/
     /*Comentario de Adrián*/
     
     
