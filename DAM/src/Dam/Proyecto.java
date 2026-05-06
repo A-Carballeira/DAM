@@ -17,4 +17,6 @@ public class Proyecto {
     //Comment leon
     
     /*Comentario de práctica*/
+    /*Muerte a NetBeans*/
+    //Comentario de Pablo
 }
