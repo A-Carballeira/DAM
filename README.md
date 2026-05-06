@@ -1,0 +1,1 @@
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpreview.redd.it%2F15m-face-reveal-yes-i-am-a-bear-v0-yl7kkqjxhs7d1.jpg%3Fwidth%3D736%26format%3Dpjpg%26auto%3Dwebp%26s%3D03284a6365c27b6bf694338e68a20f1e3e18f5cd&f=1&nofb=1&ipt=bf493eecff9bb73ba0e196f00e71fdb08f5184bd362a02d99323f14a02d1d9dc)
