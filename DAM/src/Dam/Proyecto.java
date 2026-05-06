@@ -14,13 +14,7 @@ package Dam;
  * comentario manuel
  */
 public class Proyecto {
-  /*Bruno Comment*/
-    //Comment leon
-    
-    /*Comentario de práctica*/
-    /*Muerte a NetBeans*/
-    //Comentario de Pablo
-    //miau
-    //Quiten al terian de arriba
+    // judios de mierda
 }
 /*Comentario Isabel*/
+/*Rodrigo cabron devuelveme mi comentario*/
