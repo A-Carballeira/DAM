@@ -18,7 +18,7 @@ public class DAM {
         //* clase para cuando un servidor de minecraft /
         //comentario de Adrián
 
-        /*Comentario de Victor (filantropo, guapo y sexy)*/
+        /*Comentario de Victor (filantropo, guapo y sexy )*/
     }
 
     //    Cara al Sol, con la camisa nueva
