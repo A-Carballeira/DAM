@@ -9,7 +9,7 @@ package com.mycompany.dam;
  * @author DAM104
  */
 public class DAM {
-
+/*Sin dolor no hay gloriaa*/
     public static void main(String[] args) {
         System.out.println("Hello 67!");
     }
