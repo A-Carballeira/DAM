@@ -14,11 +14,13 @@ public class DAM {
 
         System.out.println("Hello 67!");
         /*Comentario de Patricia*/
+        /*Yago estubo aqui*/
         /* Comentario de Pablo Varela */
         //* clase para cuando un servidor de minecraft /
         //comentario de Adrián
         //* juan /
 
+        /*Comentario de Victor (filantropo, guapo y sexy )*/
     }
 
     //    Cara al Sol, con la camisa nueva
