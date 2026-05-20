@@ -11,8 +11,13 @@ package com.mycompany.dam;
 public class DAM {
 /*Sin dolor no hay gloriaa*/
     public static void main(String[] args) {
+
         System.out.println("Hello 67!");
+        /*Comentario de Patricia*/
         /* Comentario de Pablo Varela */
+        //* clase para cuando un servidor de minecraft /
+        //comentario de Adrián
+
     }
 
     //    Cara al Sol, con la camisa nueva
