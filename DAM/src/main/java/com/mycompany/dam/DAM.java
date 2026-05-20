@@ -12,6 +12,6 @@ public class DAM {
 
     public static void main(String[] args) {
         System.out.println("Hello 67!");
-        //* clase para cuando un servidor de minecraft /
+        //* manuel cayo en el codigo/
     }
 }
