@@ -13,6 +13,7 @@ public class DAM {
     public static void main(String[] args) {
         System.out.println("Hello 67!");
         //Leon Mira
+        //* clase para cuando un servidor de minecraft /
     }
 
 }
