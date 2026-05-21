@@ -14,6 +14,7 @@ public class DAM {
 
         System.out.println("Hello 67!");
         /*Comentario de Patricia*/
+        /*Yago estubo aqui*/
         /* Comentario de Pablo Varela */
         //* clase para cuando un servidor de minecraft /
 
@@ -22,16 +23,16 @@ public class DAM {
         /*Comentario prueba2*/
 
         //comentario de Adrián
+        //* juan /
+        //Comentario de Pablo Rodríguez Souto
 
-        //Leon Mira
-        //* clase para cuando un servidor de minecraft /
         /*Comentario de Victor (filantropo, guapo y sexy )*/
         // ewqqwe
     }
+
 }
 
 
 
 
 /*Estais todos sobrevalorados menos el gran subdelegado*/
-//trabaja subdelegado que no pegas un palo al agua
