@@ -26,6 +26,7 @@ public class DAM {
         //Leon Mira
         //* clase para cuando un servidor de minecraft /
         /*Comentario de Victor (filantropo, guapo y sexy )*/
+        System.out.println("Deberiamos tener todos un 10, ni examen ni nada, que somos unos cracks");
     }
 }
 
