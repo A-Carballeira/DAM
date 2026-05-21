@@ -33,7 +33,7 @@ public class DAM {
 
 }
 
-//Rememorando el tumadre es puta
+//Rememorando 
 
 
 /*Estais todos sobrevalorados menos el gran subdelegado*/
