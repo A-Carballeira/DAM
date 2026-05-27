@@ -47,3 +47,5 @@ public class DAM {
 //comentario de Adrián
 //Manuel Cuquejo Bello
 //Yago López Meis
+//León Mira Monfort
+//Valeria Liendo
