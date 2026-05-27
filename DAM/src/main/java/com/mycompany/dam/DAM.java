@@ -51,3 +51,6 @@ public class DAM {
 //León Mira Monfort
 //Valeria Liendo
 // Pablo Varela Crespo
+//Adai Espinosa Alvarez
+// C_de_Angel_R_D
+//Juan Manuel Rolán Afonso
