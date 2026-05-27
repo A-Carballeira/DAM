@@ -47,6 +47,11 @@ public class DAM {
 //comentario de Adrián
 //Manuel Cuquejo Bello
 //Yago López Meis
+/*comentario anton*/
 //León Mira Monfort
 //Valeria Liendo
 //Rubén García
+//Bruno González Conde
+//Adai Espinosa Alvarez
+// C_de_Angel_R_D
+//Juan Manuel Rolán Afonso
