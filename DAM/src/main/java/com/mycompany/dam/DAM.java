@@ -17,7 +17,7 @@ public class DAM {
         /*Yago estubo aqui*/
         /* Comentario de Pablo Varela */
         //* clase para cuando un servidor de minecraft /
-
+        //* Comentario de Rodrigo Arias el suízo /
 
 
         /*Comentario prueba2*/
@@ -47,10 +47,13 @@ public class DAM {
 //comentario de Adrián
 //Manuel Cuquejo Bello
 //Yago López Meis
+//Angely Castellanos Cala
 /*comentario anton*/
 //León Mira Monfort
 //Valeria Liendo
 // Pablo Varela Crespo
+//Bruno González Conde
 //Adai Espinosa Alvarez
 // C_de_Angel_R_D
 //Juan Manuel Rolán Afonso
+//Silva Adrian
