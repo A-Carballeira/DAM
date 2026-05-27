@@ -52,7 +52,7 @@ public class DAM {
 /*comentario anton*/
 //León Mira Monfort
 //Valeria Liendo
-//comentario Victor
+//Victor Naval Outeiriño
 //Bruno González Conde
 //Adai Espinosa Alvarez
 // C_de_Angel_R_D
