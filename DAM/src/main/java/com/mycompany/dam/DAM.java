@@ -17,7 +17,7 @@ public class DAM {
         /*Yago estubo aqui*/
         /* Comentario de Pablo Varela */
         //* clase para cuando un servidor de minecraft /
-
+        //* Comentario de Rodrigo Arias el suízo /
 
 
         /*Comentario prueba2*/
@@ -29,6 +29,7 @@ public class DAM {
         /*Comentario de Victor (filantropo, guapo y sexy )*/
         /*Modificacion Victor*/
         // ewqqwe
+
     }
 
 }
@@ -37,3 +38,8 @@ public class DAM {
 /*Estais todos sobrevalorados menos el gran subdelegado*/
 
 /*comentario pablo álvarez*/
+
+                //Examen mas abajo
+
+//-------------------------------------------------------------------------------------------------------------------
+//Pablo Rodríguez Souto
