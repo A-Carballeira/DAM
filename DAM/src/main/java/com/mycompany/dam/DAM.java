@@ -54,11 +54,14 @@ public class DAM {
 /*comentario anton*/
 //León Mira Monfort
 //Valeria Liendo
+//Rubén García
 //Bruno González Conde
 //Adai Espinosa Alvarez
 // C_de_Angel_R_D
 //Juan Manuel Rolán Afonso
 //Silva Adrian
+//Roberto Civeira Fernández
+//Christian Novoa
 
 //Isabel Vázquez
 //Carlos Ferro Corbillón
