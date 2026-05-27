@@ -1,4 +1,4 @@
- /*
+/*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
@@ -44,7 +44,8 @@ public class DAM {
 //-------------------------------------------------------------------------------------------------------------------
 /*comentario pablo álvarez*/
 //Pablo Rodríguez Souto
+//comentario de Adrián
 //Manuel Cuquejo Bello
 //Yago López Meis
 //León Mira Monfort
-//Adai Espinosa Alvarez
+//Valeria Liendo
