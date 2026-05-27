@@ -1,4 +1,4 @@
-/*
+ /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
@@ -47,3 +47,4 @@ public class DAM {
 //Manuel Cuquejo Bello
 //Yago López Meis
 //León Mira Monfort
+//Adai Espinosa Alvarez
