@@ -53,8 +53,10 @@ public class DAM {
 //León Mira Monfort
 //Valeria Liendo
 //Victor Naval Outeiriño
+//Rubén García
 //Bruno González Conde
 //Adai Espinosa Alvarez
 // C_de_Angel_R_D
 //Juan Manuel Rolán Afonso
 //Silva Adrian
+//Christian Novoa
