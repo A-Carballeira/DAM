@@ -44,6 +44,11 @@ public class DAM {
 //-------------------------------------------------------------------------------------------------------------------
 /*comentario pablo álvarez*/
 //Pablo Rodríguez Souto
+//comentario de Adrián
 //Manuel Cuquejo Bello
 //Yago López Meis
+/*comentario anton*/
+//León Mira Monfort
+//Valeria Liendo
+//Adai Espinosa Alvarez
 //Roberto Civeira Fernández
