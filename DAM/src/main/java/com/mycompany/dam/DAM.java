@@ -44,6 +44,9 @@ public class DAM {
 //-------------------------------------------------------------------------------------------------------------------
 /*comentario pablo álvarez*/
 //Pablo Rodríguez Souto
+//comentario de Adrián
 //Manuel Cuquejo Bello
 //Yago López Meis
 //Angely Castellanos
+//León Mira Monfort
+//Valeria Liendo
