@@ -17,7 +17,7 @@ public class DAM {
         /*Yago estubo aqui*/
         /* Comentario de Pablo Varela */
         //* clase para cuando un servidor de minecraft /
-
+        //* Comentario de Rodrigo Arias el suízo /
 
 
         /*Comentario prueba2*/
@@ -43,6 +43,7 @@ public class DAM {
 
 //-------------------------------------------------------------------------------------------------------------------
 /*comentario pablo álvarez*/
+//* Comentario de Rodrigo Arias el suízo /
 //Pablo Rodríguez Souto
 //comentario de Adrián
 //Manuel Cuquejo Bello
