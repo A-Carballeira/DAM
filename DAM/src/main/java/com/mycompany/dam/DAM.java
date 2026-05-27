@@ -47,10 +47,13 @@ public class DAM {
 //comentario de Adrián
 //Manuel Cuquejo Bello
 //Yago López Meis
+//Angely Castellanos Cala
 /*comentario anton*/
 //León Mira Monfort
 //Valeria Liendo
+//Bruno González Conde
 //Adai Espinosa Alvarez
 // C_de_Angel_R_D
 //Juan Manuel Rolán Afonso
+//Silva Adrian
 //Roberto Civeira Fernández
