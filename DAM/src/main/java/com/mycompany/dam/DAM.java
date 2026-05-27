@@ -17,6 +17,7 @@ public class DAM {
         /*Yago estubo aqui*/
         /* Comentario de Pablo Varela */
         //* clase para cuando un servidor de minecraft /
+        //* Comentario de Rodrigo Arias el suízo /
         /*Comentario de Carlos*/
 
 
@@ -44,10 +45,12 @@ public class DAM {
 
 //-------------------------------------------------------------------------------------------------------------------
 /*comentario pablo álvarez*/
+//* Comentario de Rodrigo Arias el suízo /
 //Pablo Rodríguez Souto
 //comentario de Adrián
 //Manuel Cuquejo Bello
 //Yago López Meis
+//Angely Castellanos Cala
 /*comentario anton*/
 //León Mira Monfort
 //Valeria Liendo
@@ -55,5 +58,7 @@ public class DAM {
 //Adai Espinosa Alvarez
 // C_de_Angel_R_D
 //Juan Manuel Rolán Afonso
+//Silva Adrian
+
 //Isabel Vázquez
 //Carlos Ferro Corbillón
