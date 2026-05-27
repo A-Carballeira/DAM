@@ -18,6 +18,8 @@ public class DAM {
         /* Comentario de Pablo Varela */
         //* clase para cuando un servidor de minecraft /
         //* Comentario de Rodrigo Arias el suízo /
+        /*Comentario de Carlos*/
+
 
 
         /*Comentario prueba2*/
@@ -62,3 +64,6 @@ public class DAM {
 //Silva Adrian
 //Roberto Civeira Fernández
 //Christian Novoa
+
+//Isabel Vázquez
+//Carlos Ferro Corbillón
