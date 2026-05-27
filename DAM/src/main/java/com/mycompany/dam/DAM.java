@@ -37,10 +37,12 @@ public class DAM {
 //Rememorando
 /*Estais todos sobrevalorados menos el gran subdelegado*/
 
-/*comentario pablo álvarez*/
+
 
                 //Examen mas abajo
 
 //-------------------------------------------------------------------------------------------------------------------
+/*comentario pablo álvarez*/
 //Pablo Rodríguez Souto
 //comentario de Adrián
+//Manuel Cuquejo Bello
